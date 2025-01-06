@@ -11,6 +11,7 @@ The goal of this project is to:
 - Configure switches, routers, firewalls, and endpoints from scratch.
 - Implement advanced IT concepts such as containerization, virtualization, orchestration, and cloud computing.
 - Improve and advance my skills with github, version control and my VS Code readiness.
+- And also document my journey on this life-long learning process.
 
 ---
 
@@ -70,3 +71,7 @@ This project includes implementation and documentation of the following skills:
 
 ## Note:
 This project is an ongoing process, and the repository will be updated regularly as I progress
+
+
+## **Contact**
+- If you have any questions or suggestions, feel free to open an issue or contat me at g3rsonv@proton.me
