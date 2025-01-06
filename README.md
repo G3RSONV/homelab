@@ -10,6 +10,7 @@ The goal of this project is to:
 - Set up a fully functional home network using Cisco networking equipment, servers, endpoints and wireless AP.
 - Configure switches, routers, firewalls, and endpoints from scratch.
 - Implement advanced IT concepts such as containerization, virtualization, orchestration, and cloud computing.
+- Improve and advance my skills with github, version control and my VS Code readiness.
 
 ---
 
