@@ -1,0 +1,3 @@
+# Ignore variables in terraform
+# terraform/variables.tf
+terraform/terraform.tfvars
