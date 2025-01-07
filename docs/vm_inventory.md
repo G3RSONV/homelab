@@ -14,4 +14,4 @@
 
 | VM Name      | VM ID | OS           | IP Address    | CPU | RAM   | Storage | Role/Use Case         | Notes            |
 |--------------|-------|--------------|---------------|-----|-------|---------|-----------------------|------------------|
-| ubuntu-server|  102  | ubuntu server20.04 | DHCP | 2 | 2GB | 20GB | 
+| ubuntu-server|  102  | ubuntu server20.04 | DHCP-192.168.86.131 | 2 | 2GB | 20GB | Muli purpose server

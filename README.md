@@ -25,7 +25,7 @@ The goal of this project is to:
 - **Wireless Infrastructure**:
   - Google Nest as wireless AP
 - **ISP Connection**:
-  - ISP Modem for Internet Access
+  - ISP Router for Internet Access
 
 ---
 
