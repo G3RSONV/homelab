@@ -43,6 +43,11 @@ ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
      git remote -v
    ```
 
+## 4. Troubleshooting
+- If prompted for a username/password, update the remote URL to use SSH:
+ ```bash
+  git remote set-url origin git@github.com:username/repository-name.git
+ ```  
 
   
   
